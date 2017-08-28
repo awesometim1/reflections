@@ -3,9 +3,13 @@ It creates a storage for git commits. To commit changes it is necessary.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area is a "midpoint" between the working directory and the repository. The working directory has files that are separate from git 
+repositories, and the repository is the storage area for git commits. I think the staging area helps to group and visualize which files in the 
+working directory should be moved together to the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Move the files onto the staging area and use git diff to compare the working directory to staging area. then commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
