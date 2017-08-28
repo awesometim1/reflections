@@ -13,6 +13,8 @@ Move the files onto the staging area and use git diff to compare the working dir
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If you want to make different versions of the same program without any logical changes, branches are helpful because they can function as multiple
+different "versions" for the original program.
 
 How do the diagrams help you visualize the branch structure?
 
