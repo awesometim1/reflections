@@ -21,6 +21,8 @@ Diagrams help visualization by showing the branches and reachability of every co
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of merging the two branches together is that it adds lines of code and subtracts lines of code and seamlessly integrates the two branches
+together, resulting in a final program. The diagram is helpful in understanding how this works because of branches and merging is a visual concept.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
