@@ -26,3 +26,5 @@ together, resulting in a final program. The diagram is helpful in understanding 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+The pro is that automatic merging is simple and not much thinking is required (or debugging). THe con is that if it automatically merges the files,
+important changes to the file can be lost.
